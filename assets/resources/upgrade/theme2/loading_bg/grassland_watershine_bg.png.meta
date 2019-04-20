@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "19e9497b-e834-4885-9ea0-f0d5159e6b8d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "grassland_watershine_bg": {
+      "ver": "1.0.3",
+      "uuid": "7c744695-dd22-4102-a251-a6dfe5505d4a",
+      "rawTextureUuid": "19e9497b-e834-4885-9ea0-f0d5159e6b8d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -2,
+      "trimX": 0,
+      "trimY": 26,
+      "width": 50,
+      "height": 2,
+      "rawWidth": 50,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
